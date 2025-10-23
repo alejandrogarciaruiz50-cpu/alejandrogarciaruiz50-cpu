@@ -1,15 +1,15 @@
 ## Hi there 👋 I'm Alejandro Garcia
 @@ -0,0 +1,88 @@
-<img src= "alejandro garcia.png">
+<img src= "C:\Users\aleja\Downloads\alejandro garcia.png">
 
-<h1 align="center">Hi there👋🏻, I'm Hema Priya😍💙</h1>
+<h1 align="center">Hi there👋🏻, I'm Alejandro Garcia😍💙</h1>
 <h3 align="center">Code, Quality and Innovation — That's What I Do 👩🏻‍💻💡🚀 </h3>
 <h2 align="center">Blending my Development Expertise with a Strong Commitment to Quality !! 💻🔧✅ </h2>
 
 <img src="code.png" align='right' width="370" height="370" alt="Code">
 <img src="https://i.pinimg.com/originals/31/84/fd/3184fddee90fc94780ca6618c52713ca.gif" width="370" height="370" alt="Hi Gif">
 
-- 👩🏻‍🎓  Alumnus of Chennai Institute of Technology, with a degree in Computer Science and Engineering (Class of 2023) ❤️<br><br>
+- Professional in Administration, , Master's Degree in Comprehensive Project Management, Technologist in Software Analysis and Development, 20 years of experience in strategic planning, collective leadership, comprehenssive management, data science, and cybersecurity ❤️<br><br>
 - 😍 Crafting Code while Ensuring Quality - Full Stack Developer by Passion, Quality Engineer by Profession 😌 <br><br>
 - 🌱 Fueled by Curiosity – On a Journey of Learning What Sparks My Interest 🤣🎉<br><br>
 - 🤝 Collaboration is key! I enjoy working on projects and contributing to open-source solutions<br><br>
@@ -18,7 +18,7 @@
 - ⚡ When I’m off the clock, you’ll find me drawing intricate Mandalas 🎨, jamming to my playlist 🎶, reading 📚 or cooking something delicious 🍳. Let’s just say I know how to mix creativity with flavor! 😅<br><br>
 - 📬 Reach out to me:<br>
   - Email: hemapriyav2002@gmail.com<br>
-  - Connect with me on LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hema-priya-v-74926318b)<br><br>
+  - Connect with me on LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hema-priya-v-74926318b)](https://www.linkedin.com/in/javier-alejandro-garcia-ru%C3%ADz-95480b241?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B5IIwcjIASRWICC9fdOx%2F7w%3D%3D)<br><br>
 
 ## Profile Visitors Count: 
 ![Visitor Count](https://profile-counter.glitch.me/hema-priya-vadivel/count.svg)
