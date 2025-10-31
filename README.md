@@ -1,4 +1,4 @@
-<img src="images/Garcia.png" alt="Imagen de Garcia" width="370" height="370" />
+<img src="Garcia.png" alt="Imagen de Garcia" width="370" height="370" />
 
 <h1 align="center">Hi there👋🏻, I'm Alejandro Garcia</h1>
 <h3 align="center">Code, Quality and Innovation — That's What I Do 💡🚀 </h3>
