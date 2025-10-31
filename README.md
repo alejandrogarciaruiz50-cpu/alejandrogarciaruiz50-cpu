@@ -6,7 +6,6 @@
 
 - Professional in Administration, , Master's Degree in Comprehensive Project Management, Technologist in Software Analysis and Development, 20 years of experience in strategic planning, collective leadership, comprehenssive management, data science, and cybersecurity <br><br>
   
-- 🌱 Fueled by Curiosity – On a Journey of Learning What Sparks My Interest 🎉<br><br>
 - Collaboration is key! I enjoy working on projects and contributing to open-source solutions<br><br>
   
 - 💬 Got a challenge? Ask away! 💬 Whether it’s Development 💻, Programming 🖥️, Testing 🧪 or anything in between—let's debug together! 🛠️<br><br>
