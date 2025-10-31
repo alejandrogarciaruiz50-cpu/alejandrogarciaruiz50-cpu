@@ -1,4 +1,4 @@
-<img src="imágenes/Alejandro_garcia.png" align="right" width="7000" height="3937" alt="Code">
+<img src="imágenes/Alejandro_garcia.png" align="right" width="350" height="350" alt="Code">
 
 <h1 align="center">Hi there👋🏻, I'm Alejandro Garcia</h1>
 <h3 align="center">Code, Quality and Innovation — That's What I Do 💡🚀 </h3>
