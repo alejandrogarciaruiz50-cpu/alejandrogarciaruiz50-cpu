@@ -14,3 +14,15 @@
   - Email: alejandrogarciruiz50@gmail.com<br>
   - Connect with me on LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hema-priya-v-74926318b)](https://www.linkedin.com/in/javier-alejandro-garcia-ru%C3%ADz-95480b241?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B5IIwcjIASRWICC9fdOx%2F7w%3D%3D)<br><br>
 ## Last Edited On: 01/01/2025
+
+## 🎮 Snake Game Project
+I've created a classic Snake game using HTML5, CSS3, and JavaScript! [Play it here](game.html)
+
+**Features:**
+- Classic snake gameplay with modern graphics
+- Score tracking with local high score storage
+- Responsive design for different screen sizes
+- Keyboard controls (Arrow keys) and pause functionality (Space)
+- Progressive difficulty - speed increases as you score!
+
+**How to play:** Open `game.html` in your browser and use arrow keys to control the snake. Eat the red food to grow and score points. Don't hit the walls or yourself!
