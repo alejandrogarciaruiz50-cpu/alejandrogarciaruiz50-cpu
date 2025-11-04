@@ -3,6 +3,9 @@ const GRID_SIZE = 20;
 const CELL_SIZE = 20;
 const INITIAL_SPEED = 150;
 const SPEED_INCREMENT = 5;
+const SPEED_INCREASE_THRESHOLD = 50;
+const MIN_SPEED = 50;
+const PULSE_ANIMATION_SPEED = 200;
 
 // Canvas setup
 const canvas = document.getElementById('gameCanvas');
@@ -180,7 +183,7 @@ function update() {
         }
         
         // Increase speed slightly
-        if(score % 50 === 0 && currentSpeed > 50) {
+        if(score % SPEED_INCREASE_THRESHOLD === 0 && currentSpeed > MIN_SPEED) {
             clearInterval(gameLoop);
             currentSpeed -= SPEED_INCREMENT;
             gameLoop = setInterval(update, currentSpeed);
@@ -250,7 +253,7 @@ function draw() {
     });
     
     // Draw food with pulsing effect
-    const time = Date.now() / 200;
+    const time = Date.now() / PULSE_ANIMATION_SPEED;
     const pulse = Math.sin(time) * 0.2 + 0.8;
     ctx.fillStyle = '#ff4444';
     ctx.beginPath();
