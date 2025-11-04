@@ -130,8 +130,10 @@ function resetGame() {
 
 function generateFood() {
     let validPosition = false;
+    let attempts = 0;
+    const maxAttempts = GRID_SIZE * GRID_SIZE;
     
-    while(!validPosition) {
+    while(!validPosition && attempts < maxAttempts) {
         food = {
             x: Math.floor(Math.random() * GRID_SIZE),
             y: Math.floor(Math.random() * GRID_SIZE)
@@ -141,6 +143,12 @@ function generateFood() {
         validPosition = !snake.some(segment => 
             segment.x === food.x && segment.y === food.y
         );
+        attempts++;
+    }
+    
+    // If grid is full, game is won (extremely rare)
+    if(attempts >= maxAttempts) {
+        gameOver();
     }
 }
 
@@ -186,7 +194,9 @@ function update() {
         if(score % SPEED_INCREASE_THRESHOLD === 0 && currentSpeed > MIN_SPEED) {
             clearInterval(gameLoop);
             currentSpeed -= SPEED_INCREMENT;
-            gameLoop = setInterval(update, currentSpeed);
+            if(gameRunning) {
+                gameLoop = setInterval(update, currentSpeed);
+            }
         }
         
         generateFood();
